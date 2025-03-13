@@ -1,0 +1,453 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+    height: fit-content;
+}
+.navbar{
+    background-color: #2c3e50;
+    position: relative;
+    height: 50px;
+    width: 100%;
+    top: -15px;
+    
+
+}
+
+
+
+li{
+    display: inline;
+    padding-left: 20px;
+    position: relative;
+    top: 20px;
+    left: 850px;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover {
+    color: rgb(143, 238, 255);
+}
+.a1{
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    position: relative;
+    bottom: 25px;
+    left: 210px;
+
+
+}
+.a1:hover{
+    color: aqua;
+}
+.hero{
+    width: 100%;
+    height: 450px;
+    background-color: #1abc9c;
+    bottom: 20px;
+    position: relative;
+    top: -58px;
+
+
+}
+.sec2{
+   font-size: 50px;
+   position: relative;
+   text-align: center;
+   top: 240px;
+   color: white;
+   letter-spacing: 2px;
+
+}
+.boi{
+    position: relative;
+    bottom: 100px;
+    left: 500px;
+    width: 300px;
+    height: 250px;
+   
+}
+.hr1{
+    width: 100px;
+    height: 3px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    bottom: 50px;
+    right: 80px;
+   
+}
+.hr2{
+    width: 100px;
+    height: 3px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    bottom: 62px;
+    left: 80px;
+   
+}
+.star{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    bottom: 90px;
+    left: 620px;
+}
+.last{
+    position: relative;
+    right: 50px;
+    bottom: 80px;
+    padding-left: 540px;
+    color: white;
+    font-size: medium;
+    
+}
+.port{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 77px;
+    height: 700px;
+   
+}
+.poto{
+    text-align: center;
+    top: 80px;
+    position: relative;
+    color:  #2c3e50;
+}
+.hr3{
+    width: 60px;
+    height: 3px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+    position: relative;
+    top: 65px;
+    left: 40px;
+   
+}
+.hr4{
+    width: 60px;
+    height: 3px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+    position: relative;
+    top: 53px;
+    left: -40px;
+}
+.im1{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    top: 100px;
+    left: 150px;
+
+}
+.im2{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    top: 100px;
+    left: 170px;
+}
+.im3{
+    height: 220px;
+    width: 350px;
+    top: 100px;
+    position: relative;
+    left: 190px;
+}
+.im4{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    top: 120px;
+    left: 150px;
+}
+.im5{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    top: 120px;
+    left: 170px;
+}
+.im6{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    top: 121px;
+    left: 190px;
+    
+}
+.star2{
+    width: 30px;
+    height: 20px;
+    position: relative;
+    left: 620px;
+    top: 30px;
+}
+.ab{
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+}
+.About{
+    background-color: #1abc9c;
+    height: 380px;
+}
+.hr5{
+    width: 60px;
+    height: 3px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    position: relative;
+    top: -11px;
+    left: 50px;
+   
+}
+.hr6{
+    width: 60px;
+    height: 3px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    position: relative;
+    top: -24px;
+    left: -50px;
+}
+.whiteee{
+    width: 30px;
+    height: 25px;
+    position: relative;
+    bottom: 48px;
+    left: 620px;  
+}
+.abt{
+    position: relative;
+    color: white;
+    padding-left: 400px;
+    bottom: 40px;
+}
+
+.p2{
+    position: relative;
+    color: white;
+    padding-left: 700px;
+    bottom: 165px;
+}
+.free{
+   
+    position: relative;
+    bottom: 150px;
+    margin-left: 610px;
+    border-radius: 5px;
+    border-color: white;
+    padding: 10px;
+    background-color: #1abc9c;
+ 
+}
+
+.free a{
+    color: white;
+    text-decoration: none;
+}
+.li1{
+   
+    position: relative;
+    align-items: center;
+    padding-left: 400px;
+    top: 100px;
+     border-color: white;
+}
+
+.li2{
+   
+    position: relative;
+    align-items: center;
+    padding-left: 400px;
+    top: 100px;
+}
+.li3{
+   
+    position: relative;
+    align-items: center;
+    padding-left: 400px;
+    top: 100px;
+}
+
+.li4{
+   
+    position: relative;
+    align-items: center;
+    padding-left: 400px;
+    top: 100px;
+
+}
+
+.con {
+ text-align: center;
+ margin-top: 30px;
+ color: #2c3e50;
+}
+.send{
+    margin-left: 400px;
+   position: relative;
+   top: 120px;
+   background-color: #1abc9c;
+   padding: 8px;
+   padding-right: 20px;
+   padding-left: 20px;
+   border-radius: 6px;
+   border-color: #1abc9c;
+   
+
+}
+
+.send a {
+    text-decoration: none;
+    color: white;
+}
+.hr7{
+    width: 60px;
+    height: 3px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+    position: relative;
+    bottom: 257px;
+    left: 40px;
+   
+}
+.hr8{
+    width: 60px;
+    height: 3px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+    position: relative;
+    bottom: 270px;
+    left: -40px;
+}
+.blu2{
+    width: 30px;
+    height: 20px;
+    position: relative;
+    left: 620px;
+    bottom: 290px;
+}
+
+.footer{
+   background-color:  #2c3e50;
+   position: relative;
+   top: 180px;
+   height: 250px;
+}
+.loc{
+    padding-left: 300px;
+    position: relative;
+    top: 78px;
+    color: white;
+}
+.addy{
+    padding-left: 300px;
+    position: relative;
+    top: 80px;
+    color: white;
+}
+
+.arnd{
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+    right: 15px;
+
+}
+
+.a{
+    position: relative;
+    right: 290px;
+    bottom: 50px;
+}
+.b{
+    position: relative;
+    right: 310px;
+    bottom: 52px;
+}
+.c{
+    position: relative;
+    right: 330px;
+    bottom: 50px;
+}
+.d{
+    position: relative;
+    right: 350px;
+    bottom: 50px;
+}
+.fre{
+    color: white;
+    padding-left: 900px;
+    position: relative;
+    bottom: 120px;
+    
+}
+
+.freelan{
+    color: white;
+    bottom: 120px;
+    position: relative;
+    padding-left: 900px;
+}
+
+.blue{
+color: #1abc9c;
+padding-left: 1080px;
+bottom: 153px;
+position: relative;
+
+}
+.boot{
+    color: #1abc9c;
+    padding-left: 975px;
+    bottom: 168px;
+    position: relative;
+}
+.wh{
+    color: rgb(255, 255, 255);
+    position: relative;
+    padding-left: 0px;
+    bottom: -170px;
+    text-align: center;
+}
+.gr{
+    background-color: #254c72;
+    height: 200px;
+}
+
+input{
+    padding-right: 400px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    padding-bottom: 15px;
+    
+}
+.flex-container{
+display: flex;
+gap: 10px;
+padding: 100px;
+justify-content: center;
+flex-wrap: wrap;
+
+}
+.flex-container img{
+    max-width: 100%;
+height: auto;
+border-radius: 8px;
+box-shadow:0 2px 5px black(0,0,0,0,2) ;
+flex: 1 1 150px;
+
+}
